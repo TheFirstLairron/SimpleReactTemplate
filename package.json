@@ -9,7 +9,7 @@
     "build": "cross-env NODE_ENV=production parcel build index.html --public-url ./"
   },
   "author": "Zachary Allnutt",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
